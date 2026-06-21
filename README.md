@@ -24,7 +24,7 @@ Progressive web app optimized for mobile phones. User photographs a collision vi
 
 Join the discussion:
 
-[![Matrix](https://img.shields.io/badge/Matrix-Chat-black?logo=matrix](https://matrix.to/#/#bird-collision-reporter:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-Chat-black?logo=matrix)](https://matrix.to/#/#bird-collision-reporter:matrix.org)
 
 ## License
 
